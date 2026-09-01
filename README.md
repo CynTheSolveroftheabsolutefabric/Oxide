@@ -44,6 +44,15 @@ Oxide is an independent project and is not affiliated with, endorsed by, or spon
 
 This repository is intended for original implementation and development work; it does not imply ownership of Minecraft or its proprietary source code or assets.
 
+## Attribution
+
+Projects that redistribute or contain substantial portions of Oxide must credit **CynTheSolveroftheabsolutefabric** and link to the original repository:
+
+**Oxide by CynTheSolveroftheabsolutefabric**  
+https://github.com/CynTheSolveroftheabsolutefabric/Oxide
+
+See [NOTICE](NOTICE) for the project's attribution and independence notice, and [LICENSE](LICENSE) for the license terms.
+
 ## License
 
-Oxide is released under the MIT License. See [LICENSE](LICENSE) for the full license text.
+Oxide is released under a modified MIT-style license with an attribution requirement. See [LICENSE](LICENSE) for the full license text.
