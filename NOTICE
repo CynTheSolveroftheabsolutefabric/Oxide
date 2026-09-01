@@ -1,0 +1,23 @@
+Oxide
+Copyright (c) 2026 CynTheSolveroftheabsolutefabric
+
+Oxide is an independent, from-the-ground-up reimplementation of Minecraft written in Rust.
+
+Attribution
+-----------
+Redistributions and derivative works that contain all or substantial portions
+of Oxide must provide visible credit to:
+
+    Oxide by CynTheSolveroftheabsolutefabric
+    https://github.com/CynTheSolveroftheabsolutefabric/Oxide
+
+Modified versions should clearly identify themselves as modified versions of
+Oxide and should not imply that they are official releases of the original
+project.
+
+Independence
+------------
+Oxide is not affiliated with, endorsed by, or sponsored by Mojang Studios or
+Microsoft. Minecraft and related names, marks, and assets are the property of
+their respective owners. The Oxide license applies only to original material
+included in this project that is owned by the Oxide contributors.
